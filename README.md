@@ -5,7 +5,7 @@ Veja tudo que você precisar saber para emissão de DARF Online, declaração de
 
 Demonstração:
 
-<iframe src='http://darf.online/iframe-gerar-darf-comum.php' width='100%' height='500' frameborder='1'>O seu browser não tem suporte para iframes, acesse http://darf.online e gere o seu darf.</iframe>
+<code>&lt;iframe src='http://darf.online/iframe-gerar-darf-comum.php' width='100%' height='500' frameborder='1'&gt;O seu browser não tem suporte para iframes, acesse http://darf.online e gere o seu darf.&lt;/iframe&gt;</code>
 
 <br>
 
